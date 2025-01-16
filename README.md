@@ -1,4 +1,10 @@
-# Something
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    text-align: left;
+  }
+</style>
+# Bio
 Hi! I'm a random Python programmer that likes turtles!<br>
 I'm still learning and hope some day i'll start learning memory management and Assembly, but i probably won't lol<br>
 Making some things:
